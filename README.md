@@ -17,7 +17,9 @@ The fastq files go in experiment/data folder. Replace experiment with the name o
 - CM03_G_G2M_S6
 - CM03_H_GG2M_S7
 
-In the first 
+Replace the variable experiment, genome and base_fastq with the appropriate naming (lines 13-15).
+
+Create the conda env with the ritseq.yml file and you shuld be ready to go.
 
 ```
 project
