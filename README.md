@@ -10,7 +10,12 @@ Add the bowtie2 index files, gtf/gff annotation files and the fasta format genom
 Each file needs to be named tb927.[extension].
 
 The fastq files go in experiment/data folder. Replace experiment with the name of the sample to analyse:
-CM03_B_LIB_S1, CM03_D_LG_S3, CM03_E_G1_S4, CM03_F_S_S5, CM03_G_G2M_S6, CM03_H_GG2M_S7. 
+- CM03_B_LIB_S1
+- CM03_D_LG_S3
+- CM03_E_G1_S4
+- CM03_F_S_S5
+- CM03_G_G2M_S6
+- CM03_H_GG2M_S7
 
 In the first 
 
